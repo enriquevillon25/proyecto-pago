@@ -1,0 +1,43 @@
+
+.container__header{
+    background:   #FFCC00;
+    border: 1px solid #E4E8F7;
+
+    justify-content: space-between;
+    
+}
+.logo{
+    width: 10%;
+    cursor: pointer;
+   
+}
+.subcontainer__right{
+    gap:20px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    padding: 3% 10%;
+    
+}
+
+a{
+    text-decoration: none !important;
+    color: black !important;
+}
+.contact{
+    gap: 8px;
+    
+}
+.row{
+    display: flex;
+    flex-direction: row;
+}
+.title-category{
+    font-size: 25px;
+    cursor: pointer;
+    margin: 0 15px;
+
+}
+
+.title-category:hover{
+    background: orange;
+}

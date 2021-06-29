@@ -1,0 +1,23 @@
+.logo-banner{
+    width: 100%;
+    max-height: 500px;
+  
+}
+.contenedor{
+    position: relative;
+  
+}
+.text1{
+    position: absolute;
+    top: 80px;
+    width: 50%;
+}
+.title-banner{
+    color: white;
+    font-size: 24px;
+}
+.info{
+    letter-spacing: 1px;
+    line-height: 30px;
+
+}
